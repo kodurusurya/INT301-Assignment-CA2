@@ -4,7 +4,7 @@ Description
 
 Login and Signup page Created using the concepts of Php, Mysql
 
-user need to Signup first using an email id(email id should not been use before). and along with the email id the user need to been also enter a username(minimum 5 characters). and a password(atleast 1 uppercase, 1 special character, 1 lowercase, 1 number). all the data is stored in the database using phpmyadmin and Mysql.
+user need to Signup first using an email id(email id should not been use before). and along with the email id the user need to been also enter a username(must be an unused one). and a password(atleast 1 uppercase, 1 special character, 1 lowercase, 1 number). all the data is stored in the database using phpmyadmin and Mysql.
 
 Login
 
