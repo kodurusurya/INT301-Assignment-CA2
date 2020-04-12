@@ -1,0 +1,139 @@
+body
+{
+    background-image: url("bg2.jpg");
+    background-position: 100%;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    padding: 0;
+}
+.main-container
+{
+    margin: 25px;
+    padding:10px;
+    background-color: #ddd;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+}
+
+.heading
+{
+    color:#030353;
+    font-weight: bold;
+}
+
+.sub-heading
+{
+    margin-top: 30px;
+    font-size: 16px;
+    color:#333;
+}
+
+.container
+{
+    display: flex;
+    background-color: transparent;
+    margin-top: 10px;
+    height:280px;
+    overflow: hidden;
+    padding:15px;
+}
+
+.signup-container
+{
+    background-color: #aaa;
+    width: 50%;
+    padding:5px;
+    overflow: hidden;
+    height:100%;
+}
+
+.form-container
+{
+    width: 95%;
+}
+
+.form-input
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    color: #fff;
+}
+
+
+.form-element
+{
+    border-color: red;
+    padding:8px;
+    width: 95%;
+}
+.register_btn
+{
+    margin-top: 15px;
+    float: right;
+    background-color: transparent;
+    border: 2px solid darkblue;
+    color: #030353;
+    font-weight: bold;
+    padding:8px;
+    text-align: center;
+    cursor: pointer;
+    width: 120px;
+    transition: 0.3s;
+}
+.register_btn:hover
+{
+    background-color: #030353;
+    color:#fff;
+}
+
+.login-cotainer
+{
+    width:50%;
+    height: 89.5%;
+    background-color: #030353;
+    padding:20px;
+}
+
+.login-element
+{
+    padding:8px;
+    width: 95%;
+}
+
+.login_btn
+{
+    float: right;
+    background-color: transparent;
+    border: 2px solid orange;
+    font-weight: bold;
+    color: #fff;
+    padding:8px;
+    text-align: center;
+    cursor: pointer;
+    width: 120px;
+    transition: 0.3s;
+}
+.login_btn:hover
+{
+    background-color: orange;
+    color:#fff;
+}
+
+.modal-footer
+{
+    float: right;
+    background-color: transparent;
+    margin-top: 5px;
+    margin-left: 200px;
+    color: #fff;
+    padding: 8px;   
+}
+
+.modal-footer:hover
+{
+    text-decoration: underline;
+    color: orange;
+}
